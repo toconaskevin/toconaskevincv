@@ -1,0 +1,135 @@
+*{
+    font-family: "Microsoft JhengHei", "MingLiU", "Apple LiSung" !important;
+}
+
+.page{
+    width: 1000px;
+    height: 1350px;
+    background: #F2F2F2;
+    position: relative;
+    border: 3px;
+    border-style: solid;
+    border-color: darkgrey;
+}
+
+
+.leftbar{
+    width:300px;
+    position: absolute;
+    border-style: none;
+    background-image: linear-gradient(#95B3D7, #5485BF, #315683);
+    color: #d9d9d9;
+}
+
+#photo{
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    top:80px;
+    bottom:0;
+    right:0;
+    left:28px;
+}
+
+.marginicon{
+    position: absolute;
+    left: 5px;
+}
+
+.alignicon1{
+    position: absolute;
+    top:320px;
+}
+
+.alignicon2{
+    position: absolute;
+    top:355px;
+}
+
+.alignicon3{
+    position: absolute;
+    top:390px;
+}
+
+.alignicon4{
+    position: absolute;
+    top:420px;
+}
+
+.alignicon5{
+    position: absolute;
+    top:455px;
+}
+
+.alignicon6{
+    position: absolute;
+    top:485px;
+}
+
+.txtleftbar{
+    position: absolute;
+    left:50px;
+    line-height: 110%;
+}
+
+.contact{
+    top:335px;
+}
+
+.langs{
+    top:580px;
+}
+
+.tools{
+    top:865px;
+}
+
+.language{
+    top:1115px;
+}
+
+.mainbox{
+    position: absolute;
+    right:80px;
+    left:400px;
+    color:#595959;
+}
+
+.title{
+    color: #548dd4;
+    line-height: 50%;
+}
+
+.head{
+    top:50px;
+    text-align: center;
+}
+
+.profile{
+    top:180px;
+    text-align: center;
+    padding: 3px 10px;
+    border: PowderBlue 0px solid;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: #d9d9d9;
+}
+
+.knowledge{
+    top:340px;
+}
+
+.education{
+    top:820px;
+}
+
+#institutions{
+    list-style-type: square;
+}
+
+.pborder{
+    padding: 4px;
+    border-left: 1px solid;
+    border-bottom: 2px solid;
+    line-height: 155%
+}
